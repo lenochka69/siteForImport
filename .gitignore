@@ -4,3 +4,4 @@ Thumbs.db
 tmp/
 *.[_old]
 *.[_backup]
+.idea/workspace.xml
