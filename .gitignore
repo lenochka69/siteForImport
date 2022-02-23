@@ -2,7 +2,7 @@ Thumbs.db
 .DS_Store
 .DS_Store?
 tmp/
-_old
-_backup
+
 .idea/workspace.xml
-*.html_old
+*.*_old
+*.*_backup
