@@ -2,5 +2,6 @@ Thumbs.db
 .DS_Store
 .DS_Store?
 tmp/
-._*
+._old
+._backup
 .idea/workspace.xml
